@@ -5,11 +5,14 @@ class Book
   
   def initialize(title)
     @title = title
-    @author = "Agatha Christie"
   end
   
   def title
     return @title
+  end
+  
+  def author 
+    return "Agatha Christie"
   end
   
 end
