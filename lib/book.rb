@@ -5,14 +5,11 @@ class Book
   
   def initialize(title)
     @title = title
-    @author = author
+    @author
   end
   
   def title
     return @title
   end
   
-  def author 
-  
-  end
 end
