@@ -11,8 +11,4 @@ class Book
     return @title
   end
   
-  def author 
-    return "Agatha Christie"
-  end
-  
 end
