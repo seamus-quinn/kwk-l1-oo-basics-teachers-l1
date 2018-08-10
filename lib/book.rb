@@ -8,6 +8,6 @@ class Book
   end
   
   def title
-    
+    return @title
   end
 end
